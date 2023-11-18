@@ -1,0 +1,24 @@
+A base consta com 60 amostras onde 20 amostras sao da classe 1 que
+representa o audio da palavra um, 20 amostras sao da classe 2 que
+representa o audio da palavra dois, e mais 20 amostras da classe 3
+referente ao audio da palavra tres.
+A base consta com 17 atributos, a ultima coluna contabiliza 18 colunas e a ultima eh referente as classes 1 2 e 3. Os atributos extraidos dos sinais de audios, na qual compoem a base de dados foram:
+
+1. average
+2. stdMetric
+3. skewnessMetric
+4. kurtosisMetric
+5. entropyMetric
+6. meanDeviation
+7. Variance
+8. cepstral
+9. powerTotal
+10. dominantFrequency
+11. meanFrequency
+12. medianFrequency
+13. psdMean
+14. psdMedian
+15. psdMode
+16. minMetric
+17. rmsMetric
+18. class
